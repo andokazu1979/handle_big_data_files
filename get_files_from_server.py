@@ -10,11 +10,11 @@ import logging
 # Parameters
 ########################################
 
-# level_ = logging.DEBUG
+level_ = logging.DEBUG
 # level_ = logging.INFO
-level_ = logging.WARNING
+# level_ = logging.WARNING
 
-server = 'test'
+server = 'K'
 rootdirpath_to = '.'
 
 ########################################
